@@ -1,0 +1,26 @@
+{
+  "name": "linked-list",
+  "version": "1.0.0",
+  "description": "a node linkedlist",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxtetrachord/linkedlist-dot-js.git"
+  },
+  "author": "autumn crossan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxtetrachord/linkedlist-dot-js/issues"
+  },
+  "homepage": "https://github.com/mxtetrachord/linkedlist-dot-js#readme",
+  "dependencies": {
+    "jasmine": "^3.2.0"
+  }
+}
